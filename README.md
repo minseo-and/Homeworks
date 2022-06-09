@@ -1,5 +1,5 @@
-# Server-Interworking
-숙제한거 연습한거 모아두는곳
+# Homeworks
+숙제한거 모아두는곳
 
 날씨 api 연동 - https://github.com/minseo-and/Weather 
 
